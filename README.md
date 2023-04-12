@@ -1,5 +1,5 @@
 # PS Controller
-A modification which replaces Xbox buttons for PS buttons.
+A modification which replaces Xbox buttons to PS buttons.
 
 ## Installation
 1. Download modification from release: [Here](https://github.com/SDmodding/PS-Controller/releases/download/v1.0/PS-Controller.rar)
